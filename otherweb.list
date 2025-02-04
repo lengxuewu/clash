@@ -10,4 +10,6 @@
 #IP-CIDR,8.8.8.8/32,no-resolve
 
 DOMAIN-KEYWORD,missav
+DOMAIN-SUFFIX,missav.ws
 DOMAIN-KEYWORD,flyingbird
+DOMAIN-SUFFIX,flyingbird.cc
