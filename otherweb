@@ -1,0 +1,13 @@
+# IP段匹配
+IP-CIDR,142.171.133.131/32,no-resolve
+
+# 国外DNS
+DOMAIN-SUFFIX,dns.google
+
+# 其他网站
+DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,cacapex.com
+DOMAIN-KEYWORD,missav
+DOMAIN-KEYWORD,flyingbird
+
+IP-CIDR,8.8.8.8/32,no-resolve
